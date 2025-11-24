@@ -91,7 +91,7 @@ Create a compressed archive of the directory `MyLinuxFiles` using `tar` and `gzi
 
 ### Commands Used:
 
-- `tar [options] {archive_name} [files or dir]` – used to create a compressed archive
+- `tar -czf {archive_name} [files or dir]` – used to create a new compressed tar archive using gzip
 
 ### Output:
 ![](./images/7.png)
